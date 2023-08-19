@@ -1,0 +1,254 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* .main-container {
+    background-color: #ffffff;
+    height: 100vh;
+} */
+
+.main-header {
+    background-color: #fff;
+    padding-top: 15px;
+    height: 100px;
+    width: 100%;
+    border: none;
+    box-shadow: 5px 5px 20px 10px #e1e1e1;
+    position: fixed;
+}
+
+.header {
+    padding-left: 200px;
+    display: flex;
+}
+
+.button {
+    padding-left: 500px;
+}
+
+.button th {
+    color: #7a7a7a;
+    padding: 0px 25px 0px 25px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+
+.button th a{
+    color: #7a7a7a;
+    text-decoration: none;
+}
+
+
+.button th a:hover {
+    font-size: 20px;
+    cursor: pointer;
+    color: #000;
+}
+
+.button th a:focus {
+    font-size: 20px;
+    color: #000;
+}
+
+/* .dropdown{
+    position: relative;
+    display: inline-block;
+    border: 1px solid #000;
+    height: 50px;
+    width: 300px;
+    background-color: #712222;
+}
+
+.dropdown1{
+    position: absolute;
+    display: none;
+    box-shadow: 5px 5px 20px 10px #000;
+    width: 300px;
+    height: 100px;
+
+}
+
+.dropdown:hover .dropdown1 {
+    display: block;
+} */
+
+.button1 {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0c66f3;
+    border: none;
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 800px;
+    margin: 10px 0px 0px 50px;
+    width: 150px;
+    height: 50px;
+    font-family: 'Inter', sans-serif;
+}
+
+.button1:hover {
+    background-color: #004ecb;
+}
+
+.body1{
+    padding-top: 200px;
+    text-align: center;
+    margin: 0px 0px 500px 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.body1 img{
+    width: 300px;
+}
+.page1, .body1 b{
+    font-size: 30px;
+}
+
+.display-flex {
+    display: flex;
+    margin: 20px 0px 0px 100px;
+}
+
+.body2 {
+    border: 1px solid #000;
+    background-color: #121212;
+    width: 100%;
+    height: 450px;
+}
+
+.body3 {
+    margin: 50px 100px 0px 120px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.body4 {
+    margin: 50px 0px 0px 140px;
+    border: none;
+    width: 200px;
+    height: 250px;
+    font-family: 'Inter', sans-serif;
+}
+
+.body4 p {
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.body4 a {
+    line-height: 35px;
+    color: #7a7a7a;
+    text-decoration: none;
+}
+
+.body4 a:hover {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.body4 a:focus{
+    color: #ffffff;
+    font-size: 17px;
+}
+
+
+.body5 {
+    margin: 50px 0px 0px 70px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    width: 200px;
+    height: 250px;
+    color: #fff;
+}
+
+.body5 p {
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.body5 a {
+    line-height: 35px;
+    color: #7a7a7a;
+    text-decoration: none;
+}
+
+.body5 a:hover {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.body5 a:focus{
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.body6 {
+    margin: 50px 0px 0px 70px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    width: 200px;
+    height: 250px;
+    color: #fff;
+}
+
+.body6 p {
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.body6 a {
+    line-height: 35px;
+    color: #7a7a7a;
+    text-decoration: none;
+}
+
+.body6 a:hover {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.body6 a:focus{
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.page9 {
+    padding: 30px 0px 20px 0px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    font-size: 25px;
+}
+
+.page10 {
+    color: #7a7a7a;
+    font-size: 17px;
+    padding: 20px 0px 0px 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.page11 {
+    line-height: 30px;
+    color: #fff;
+    font-size: 16px;
+    padding: 5px 0px 0px 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.page12 {
+    margin-top: 90px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
